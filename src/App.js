@@ -1,11 +1,9 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import React from 'react'; 
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import CharacterList from './components/CharacterList';
 import CharacterDetail from './components/CharacterDetail';
 import ComicList from './components/ComicList';
 import SearchHistory from './components/SearchHistory';
-
-
 
 function App() {
   return (
