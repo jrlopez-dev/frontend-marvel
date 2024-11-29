@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# FrontEnd de consumo de api de marvel desde React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto web desarrollado con la tecnologia React, tiene como objetivo poder realizar distintas peticiones a la api de Marvel. La api de marvel provee distintos endpoint que pueden ser consumidos con objetivos tecnicos o didacticos. 
+
+Esta interfaz web tiene la siguientes funciones.
+1. Cosultar todos los personajes de marvel
+2. Consultar por nombre la informacion de personajes de marvel
+3. Consultar por ID los personajes
+4. Consultar los comicos de un personaje
+5. Consultar las series de un personaje 
+6. Consultar las historietas de una persona
+7. Consultar todos los comicos existentes
+8. Consultar los comic en espesifico por medio de ID 
+
+el proyeto tiene un modal de instrucciones para el usuario.
+
+La url del proyecto es: https://jrlopez-dev.github.io/frontend-marvel/
+
+A continuacion hay inforacion tecnica para que pueda clonar el repositorio y desplegar en modo desarrollo el proyecto.
 
 ## Available Scripts
 
